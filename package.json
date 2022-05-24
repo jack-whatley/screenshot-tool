@@ -1,7 +1,7 @@
 {
-  "name": "discord-screenshot-faker",
+  "name": "screenshot-tool",
   "version": "0.0.1",
-  "description": "a tool for faking discord screenshots",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "start": "npx nodemon server.js"
